@@ -1,0 +1,11 @@
+#Environnement virtuel 
+DataGeograpGouv/
+
+# Fichier de compilation Python 
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configurations d'IDE/Editeurs
+.vscode/
